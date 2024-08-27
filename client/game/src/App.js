@@ -24,7 +24,7 @@ const App = () => {
 
     return (
         <div style={styles.container}>
-            <h1 style={{color:'black'}}>Amisha Tripathi 21BCE1735</h1>
+            <h1 style={{color:'black'}}>Shradha Suman Jena 21BCE1764</h1>
             <h2 style={{color:'brown'}}>Chess Game</h2>
             {gameState && (
                 <>
